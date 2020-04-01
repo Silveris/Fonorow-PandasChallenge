@@ -1,4 +1,4 @@
-# Pandas Challenge! - Pandas, Pandas, Pandas
+# Pandas Homework - Pandas, Pandas, Pandas
 
 ## Background
 
@@ -8,7 +8,7 @@ Now, it's time to take what you've learned about Python Pandas and apply it to n
 
 ### Before You Begin
 
-1. Create a new repository for this project called `pandas-challenge`. **Do not add this to an existing repository**.
+1. Create a new repository for this project called `pandas-challenge`. **Do not add this homework to an existing repository**.
 
 2. Clone the new repository to your computer.
 
