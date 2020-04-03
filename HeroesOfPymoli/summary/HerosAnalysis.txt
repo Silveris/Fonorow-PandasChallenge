@@ -1,0 +1,14 @@
+-------- include a written description of three observable trends based on the data --------
+
+== generate a report that breaks down the game's purchasing data into meaningful insights ==
+
+
+the majority of the players are male
+(84.03% of players are male)
+
+the majority of the players are in their late teens/ early 20s
+(63.37% of players are aged between 15 and 24)
+
+the majority of the purchases were from the 15 - 24 brackets 
+(63.59% of all the purchases were from people between 15 - 24)
+(Spending $1526.95)

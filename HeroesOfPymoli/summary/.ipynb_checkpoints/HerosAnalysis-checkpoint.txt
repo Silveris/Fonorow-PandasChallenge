@@ -1,0 +1,6 @@
+-- You must include a written description of three observable trends based on the data -- 
+
+84.03% of players are male
+
+63.37% of players are aged between 15 and 24
+
